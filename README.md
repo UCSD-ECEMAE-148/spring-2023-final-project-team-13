@@ -1,108 +1,106 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/M2_fO6fJ)
-# :wave: The Basics of GitHub 
-
-## 🤓 Course overview and learning outcomes 
-
-The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
-
-## :octocat: Git and GitHub
-
-Git is a **distributed Version Control System (VCS)**, which means it is a useful tool for easily tracking changes to your code, collaborating, and sharing. With Git you can track the changes you make to your project so you always have a record of what you’ve worked on and can easily revert back to an older version if need be. It also makes working with others easier—groups of people can work together on the same project and merge their changes into one final source!
-
-GitHub is a way to use the same power of Git all online with an easy-to-use interface. It’s used across the software world and beyond to collaborate and maintain the history of projects.
-
-GitHub is home to some of the most advanced technologies in the world. Whether you're visualizing data or building a new game, there's a whole community and set of tools on GitHub that can get you to the next step. This course starts with the basics of GitHub, but we'll dig into the rest later.
-
-## :octocat: Understanding the GitHub flow 
-
-The GitHub flow is a lightweight workflow that allows you to experiment and collaborate on your projects easily, without the risk of losing your previous work.
-
-### Repositories
-
-A repository is where your project work happens--think of it as your project folder. It contains all of your project’s files and revision history.  You can work within a repository alone or invite others to collaborate with you on those files.
-
-### Cloning 
-
-When a repository is created with GitHub, it’s stored remotely in the ☁️. You can clone a repository to create a local copy on your computer and then use Git to sync the two. This makes it easier to fix issues, add or remove files, and push larger commits. You can also use the editing tool of your choice as opposed to the GitHub UI. Cloning a repository also pulls down all the repository data that GitHub has at that point in time, including all versions of every file and folder for the project! This can be helpful if you experiment with your project and then realize you liked a previous version more. 
-To learn more about cloning, read ["Cloning a Repository"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository). 
-
-### Committing and pushing
-**Committing** and **pushing** are how you can add the changes you made on your local machine to the remote repository in GitHub. That way your instructor and/or teammates can see your latest work when you’re ready to share it. You can make a commit when you have made changes to your project that you want to “checkpoint.” You can also add a helpful **commit message** to remind yourself or your teammates what work you did (e.g. “Added a README with information about our project”).
-
-Once you have a commit or multiple commits that you’re ready to add to your repository, you can use the push command to add those changes to your remote repository. Committing and pushing may feel new at first, but we promise you’ll get used to it 🙂
-
-## 💻 GitHub terms to know 
-
-### Repositories 
-We mentioned repositories already, they are where your project work happens, but let’s talk a bit more about the details of them! As you work more on GitHub you will have many repositories which may feel confusing at first. Fortunately, your ["GitHub dashboard"](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/about-your-personal-dashboard) helps to easily navigate to your repositories and see useful information about them. Make sure you’re logged in to see it!
-
-Repositories also contain **README**s. You can add a README file to your repository to tell other people why your project is useful, what they can do with your project, and how they can use it. We are using this README to communicate how to learn Git and GitHub with you. 😄 
-To learn more about repositories read ["Creating, Cloning, and Archiving Repositories](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories) and ["About README's"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes). 
-
-### Branches
-You can use branches on GitHub to isolate work that you do not want merged into your final project just yet. Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository. Typically, you might create a new branch from the default branch of your repository—main. This makes a new working copy of your repository for you to experiment with. Once your new changes have been reviewed by a teammate, or you are satisfied with them, you can merge your changes into the default branch of your repository.
-To learn more about branching, read ["About Branches"](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches).
-
-### Forks
-A fork is another way to copy a repository, but is usually used when you want to contribute to someone else’s project. Forking a repository allows you to freely experiment with changes without affecting the original project and is very popular when contributing to open source software projects!
-To learn more about forking, read ["Fork a repo"](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
-
-### Pull requests
-When working with branches, you can use a pull request to tell others about the changes you want to make and ask for their feedback. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add more changes if need be. You can add specific people as reviewers of your pull request which shows you want their feedback on your changes! Once a pull request is ready-to-go, it can be merged into your main branch.
-To learn more about pull requests, read ["About Pull Requests"](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests). 
+##### UCSD ECE/MAE 148 Spring 2023 Team 13
 
 
-### Issues
-Issues are a way to track enhancements, tasks, or bugs for your work on GitHub. Issues are a great way to keep track of all the tasks you want to work on for your project and let others know what you plan to work on. You can also use issues to tell a favorite open source project about a bug you found or a feature you think would be great to add!
+##### Team Members
 
-For larger projects, you can keep track of many issues on a project board. GitHub Projects help you organize and prioritize your work and you can read more about them [in this "About Project boards document](https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards). You likely won’t need a project board for your assignments, but once you move on to even bigger projects, they’re a great way to organize your team’s work!
-You can also link together pull requests and issues to show that a fix is in progress and to automatically close the issue when someone merges the pull request.
-To learn more about issues and linking them to your pull requests, read ["About Issues"](https://docs.github.com/en/github/managing-your-work-on-github/about-issues). 
 
-### Your user profile
+##### **[Colin Szeto](mailto:cszeto@ucsd.edu)(MAE), Martin Flores Leon(CSE), Yusuf Morsi(ECE), [Dominic Quinonez](mailto:dmquinon@ucsd.edu)(MAE)![](https://lh3.googleusercontent.com/dl7DzsoTw9a-qfMl1YEQDC-yG9jjCdJ40EwMVY6Xo-X-T-P-oFADIdTgrFmx6jXdN7KAQt_WiWOj_6iKuVfvNjJSrhdr6pRwNpFF5qh4bnlSkXnR2RsO0E7QHu8qNZutgJqET8iEisjnQaiqmQ3ErHE)Final Project Overview: For our final project we decided to have our car drive from one point to another point and at each point take images and stitch them together into a panorama that will be saved and view later. Car Design:For our car design we decided to have a front hood type feature where underneath the hood we have our battery, wiring, and servo motors. On top of our hood we have our jetson nano mounted in the center of the car as it is the most important part. To the front of the car we have our camera mounted high on a gimbal to allow us to take images from different angles without having to move the car every single time. Having the camera in front was optimal for better images and also for optimal line following. In the rear we have mounted our lidar and our GNSS system.[Hardware:](https://docs.google.com/document/d/1mEGQXQIoFtz-QhsUaf_HwSmJxkk1sJeMCkNKta-pZkg/edit#heading=h.tanwpcc66t61)[Video Submissions](https://docs.google.com/document/d/1mEGQXQIoFtz-QhsUaf_HwSmJxkk1sJeMCkNKta-pZkg/edit#heading=h.udk2e3ymmvji)**
 
-Your profile page tells people the story of your work through the repositories you're interested in, the contributions you've made, and the conversations you've had. You can also give the world a unique view into who you are with your profile README. You can use your profile to let future employers know all about you! 
-To learn more about your user profile and adding and updating your profile README, read ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme). 
 
-### Using markdown on GitHub 
+##### 
 
-You might have noticed already, but you can add some fun styling to your issues, pull requests, and files. ["Markdown"](https://guides.github.com/features/mastering-markdown/) is an easy way to style your issues, pull requests, and files with some simple syntax. This can be helpful to organize your information and make it easier for others to read. You can also drop in gifs and images to help convey your point!
-To learn more about using GitHub’s flavor of markdown, read ["Basic Writing and Formatting Syntax"](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax). 
 
-### Engaging with the GitHub community
+##### ****
 
-The GitHub community is vast. There are many types of people who use GitHub in their day to day—students like you, professional developers, hobbyists working on open source projects, and explorers who are just jumping into the world of software development on their own. There are many ways you can interact with the larger GitHub community, but here are three places where you can start. 
 
-#### Starring repositories 
+##### 
 
-If you find a repository interesting or you want to keep track of it, star it! When you star a repository it’s also used as a signal to surface better recommendations on github.com/explore. If you’d like to get back to your starred repositories you can do so via your user profile. 
-To learn  more about starring repositories, read ["Saving Repositories with Stars"](https://docs.github.com/en/github/getting-started-with-github/saving-repositories-with-stars). 
 
-#### Following users 
+##### Electrical Shcematic: 
 
-You can follow people on GitHub to receive notifications about their activity and discover projects in their communities. When you follow a user, their public GitHub activity will show up on your dashboard so you can see all the cool things they are working on. 
-To learn more about following users, read ["Following People"](https://docs.github.com/en/github/getting-started-with-github/following-people).
 
-#### Browsing GitHub Explore 
+##### **![](https://lh6.googleusercontent.com/GvkxAbsc6skmnlfbDdW40ZCeQSEg1BFxRmU2t48-SX1AZIW9KAzAkMnRY_ljog9fP1DsYVFn7flmvkFQ6cDwXQOQ_cQvG2l9GzyBJiUf7329r2aiWR_qk3SzghDzTbY2aqzYD2B3DcorUaxBfe7rUts)This is the schematic that we followed to successfully wire our vehicle and all of its components.**
 
-GitHub Explore is a great place to do just that … explore :smile: You can find new projects, events, and developers to interact with.
 
-You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you interact with GitHub the more tailored your Explore view will be. 
+##### Hardware: 
 
-## 📝 Optional next steps 
 
-* Open a pull request and let your teacher know that you’ve finished this course.  
-* Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
-* Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
-* Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
-* [Let us know what you liked or didn’t like about the content of this course](https://support.github.com/contact/education). What would you like to see more of? What would be interesting or helpful to your learning journey? 
+###### _V1: objective to utilize gears for compact packaging. The green gears would help the gimbal yaw while the red gears allow the gimbal to pitch._ 
 
-## 📚  Resources 
-* [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
-* [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
-* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-* [How to use GitHub branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q&feature=youtu.be)
-* [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
-* [GitHub's Learning Lab](https://lab.github.com/)
-* [Education community forum](https://education.github.community/)
-* [GitHub community forum](https://github.community/)
+
+##### **![](https://lh4.googleusercontent.com/0RMHIJkqZciwBVob0NYr1gFXtRLC5LZYtlYNb-pSV1WIPIbmlwplc5Qno1TL76ua5iTDh5YtWa39Vd82Hx8oVOJKA0AsH36UsfP597Vu8HTkzDNbNMto-1JliEPiIsgWLdxlQF_NguyWSuF4VUbe1zU)**
+
+
+###### _V2: simply the assembly by utilizing servo blocks, these servo blocks can be leveraged as structural and mounting components and allow the servo to resist shear moments that may break the shaft_
+
+
+##### **![](https://lh3.googleusercontent.com/4Nv6weLuFxTgQGlg6jjH9uTrQLoN_ucUuWlshqccugEu4LC_01bDBM2hLvU8K9OSQuZucHufZ-P_rNclfAKTmSDQT7kyX0zyf3Fz67aHEmfa7YAmn_aI591r_zJQUmPIvvZBdq0uxtMBmU5UVjrKJKs)**
+
+
+###### _V3 gimbal. Objective was to get rid of the large moment arm and reduce the range of travel of the camera. Utilizing a linkage we can keep the camera in a similar position to the pivot point and reducing the length the camera is away from the pivot point (pitch)_
+
+
+##### **![](https://lh5.googleusercontent.com/5F3UeZD5NsqNctflSAwpwgtXw9jZk7uCTjZ4pH4IdPYFUfdZs0j86Pz4RmHG589IHXgurGrTl8vAmWWSF7kUdlHxFmmX9fkBLOMU4KUpzMDrWJRlwEyuQg2VHZy2b-YASPmWL7KSwB59KFjkQLmX3s0)![](https://lh3.googleusercontent.com/6fjLonfaabsCnh_nHrkPOaa_paSKUXz_4UDRXkhfWeDmGAMsCC_uvtuVCZ386lBV_Fr1k9Zq9u0FzlVXWHLpo81kfa-4tki3VLDDHyV0onqMXFx6ib91OYTuURrhUWGYKgWZEkomDOlGXwFJGJ2I9Ls)**
+
+
+###### _Servo moving:_
+
+
+##### **<https://youtube.com/shorts/_F_l6TSckRs?feature=share>**
+
+
+##### Video Submissions
+
+
+###### _ROS inner lane:_ 
+
+
+##### **<https://youtu.be/m73O68-RbmQ>**
+
+
+###### _ROS laps:_ 
+
+
+##### **<https://youtu.be/hEesrSbDkLY>**
+
+
+###### _Human behavior cloning:_ 
+
+
+##### **<https://youtu.be/lcpqX9XBoYo>**
+
+
+###### _3 laps gps following_
+
+
+##### **<https://youtu.be/PLP2RACh3PU>**
+
+
+##### Final Project
+
+
+##### ****
+
+
+###### _Overview:_ 
+
+
+##### **Initially our project had a different scope. Our original goal was to have the car drive around an object on the ground and using the OAK-D lite render a 3D mesh/mapping of the object. We were able to make significant progress on this first plan with generating point clouds and capturing them into files but it was the 3d rendering that was deemed overscoped with the time we had. So with one week till the deadline we decided to rethink our project and came up with our plan B. Plan B was to have our car drive to a couple of different GPS waypoints, stop and captured multiple images using the gimbal and then stitch them together to form a panorama. The gimbal would swivel a total of 180 degrees and in that span take around 18 images that would then be processed using OpenCV into a final panorama. **
+
+
+###### _Algorithm Design:_ 
+
+
+##### **Gimbal Movement & Image processing – Created a python script that handled the movement of the gimbal making it swivel 10 degrees at a time. With each swivel we included for the camera to save an image using openCV’s library. Once the gimbal movement and raw images were taken, we then use another python program called stitcND.py that utilizes the openCV library as well as numpy to correctly stitch the images and remove overlapping objects within the images. Thus our final product being a panorama consisting of 18 images stitched together. **
+
+
+###### _GNSS Explanation_
+
+
+##### ****
+
+
+###### _DEMO:_ 
+
+
+##### 
