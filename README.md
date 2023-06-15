@@ -86,8 +86,7 @@ Gimbal Movement & Image processing – Created a python script that handled the 
 
 
 ###### _DEMO:_ 
-
-[![mission run](thumbnail_image_url)]([https://youtu.be/PLP2RACh3PU](https://photos.google.com/share/AF1QipPehQETBrWRc1ZGd1liKMvZB0Z1QmhfP4V50KVzhhgaC1J4FJT_glDC6XSNK2S6dg/photo/AF1QipPYNYSp7jWlzqx626q61PSZM1WQvkwk9rO8xO0_?key=LW1kUlI5cFBxYkpHZUFrZWE1X3hpM2lBYmJyN3dB))
+![](https://youtu.be/wOdJzO9YFwA)
 
 
 Results: 
