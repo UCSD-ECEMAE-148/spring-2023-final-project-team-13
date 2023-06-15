@@ -1,4 +1,4 @@
-[UCSD ECE/MAE 148 Spring 2023 Team 13](https://docs.google.com/document/d/1mEGQXQIoFtz-QhsUaf_HwSmJxkk1sJeMCkNKta-pZkg/edit#heading=h.3sog5qxn50qj)
+<div align = center>[UCSD ECE/MAE 148 Spring 2023 Team 13](https://docs.google.com/document/d/1mEGQXQIoFtz-QhsUaf_HwSmJxkk1sJeMCkNKta-pZkg/edit#heading=h.3sog5qxn50qj)
 
 [Team Members](https://docs.google.com/document/d/1mEGQXQIoFtz-QhsUaf_HwSmJxkk1sJeMCkNKta-pZkg/edit#heading=h.4ewnx5wwrj02)
 
@@ -150,3 +150,4 @@ _Outdoor Run_ 
 ![](https://lh6.googleusercontent.com/MNKSXHjGxZ31T7oMhLy30mFaVnAX2iNKJN-FnpXSruSrl7JKc0N8Yf0U9XX6lv2T-97K_50rjniNeBRUadh2LoDHMhQJuYfBfXE-HjCfB36MoDsMeS3RejyHoX1pZ20WOsNxAMCard4VODLOs2prYg8)
 
 ![](https://lh6.googleusercontent.com/Q70LiGDRXfvMDy4zurNtcbXIQmHlGQeB31lbScWJyQ091KHhdo90vRL7H7TtXbMn99d1mHFL8vWGHiZHzGBaUofR_LfDGvUexzyi-uiPtmlGFpjvOXE8CVpmNxR1ZSM3CMhRCDwy7nsxZhEic97OzCU)
+  </div>
