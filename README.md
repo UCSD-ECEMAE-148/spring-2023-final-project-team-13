@@ -5,7 +5,8 @@
 
 [Colin Szeto](mailto:cszeto@ucsd.edu)(MAE), Martin Flores Leon(CSE), Yusuf Morsi(ECE), [Dominic Quinonez](mailto:dmquinon@ucsd.edu)(MAE)
 
-![](https://lh5.googleusercontent.com/iS5lAORZ4h9Co1goMg14JcI_lDNIP77eHcVNOOUyOVVRmAoKkO7llHE2fz9MXiIKfYwbJjuDlobRydKOwqm36LhZcJrDULBIi3FcBilmd-IZpmGJqW-3EHEzq4725zKYT55Wvm1wi7o2ygwNconTjuM)
+<img src="https://lh3.googleusercontent.com/dl7DzsoTw9a-qfMl1YEQDC-yG9jjCdJ40EwMVY6Xo-X-T-P-oFADIdTgrFmx6jXdN7KAQt_WiWOj_6iKuVfvNjJSrhdr6pRwNpFF5qh4bnlSkXnR2RsO0E7QHu8qNZutgJqET8iEisjnQaiqmQ3ErHE" width=200px>
+
 
 Final Project Overview:  
 For our final project we decided to have our car drive from one point to another point and at each point take images and stitch them together into a panorama that will be saved and view later. 
@@ -27,19 +28,18 @@ This is the schematic that we followed to successfully wire our vehicle and all 
 
 ###### _V1: objective to utilize gears for compact packaging. The green gears would help the gimbal yaw while the red gears allow the gimbal to pitch._ 
 
-![](https://lh6.googleusercontent.com/LI5zHHalXJidVnefKfnGtQPs8NcmErGbldLNXyEBFHE-muq96bdDhxDs4O7c9wVR46TV7FlGNPcbxYnP1OQuFCzw5OtVVm45uv1WrolGtPwF0dkoD0uf6v6eugN1HUml2dEj2UrSHwtV5tfEzTT4Nf0)
+<img src ="https://lh4.googleusercontent.com/0RMHIJkqZciwBVob0NYr1gFXtRLC5LZYtlYNb-pSV1WIPIbmlwplc5Qno1TL76ua5iTDh5YtWa39Vd82Hx8oVOJKA0AsH36UsfP597Vu8HTkzDNbNMto-1JliEPiIsgWLdxlQF_NguyWSuF4VUbe1zU" width=200px>
 
 
 ###### _V2: simply the assembly by utilizing servo blocks, these servo blocks can be leveraged as structural and mounting components and allow the servo to resist shear moments that may break the shaft_
 
-![](https://lh3.googleusercontent.com/h0TbPY-7VQpNTPmkw4KSAA4ktqF2Xy_kwb3fBMM3FJveibvy4J8xalKwv57_YfrTfXBeR0GnyA9MP-SI7UVlU3_PfVuID0I35ej8LREgMu8FqvYdsSx7eS1Us6H7KlDPg7P7xzxcTzlpzdb0c_aGt2Q)
+<img src ="https://lh3.googleusercontent.com/4Nv6weLuFxTgQGlg6jjH9uTrQLoN_ucUuWlshqccugEu4LC_01bDBM2hLvU8K9OSQuZucHufZ-P_rNclfAKTmSDQT7kyX0zyf3Fz67aHEmfa7YAmn_aI591r_zJQUmPIvvZBdq0uxtMBmU5UVjrKJKs" width=200px>
 
 
 ###### _V3 gimbal. Objective was to get rid of the large moment arm and reduce the range of travel of the camera. Utilizing a linkage we can keep the camera in a similar position to the pivot point and reducing the length the camera is away from the pivot point (pitch)_
 
-![](https://lh3.googleusercontent.com/5_7LBACfDdK7hSa7p8oVbGq_SQ7gCez5is_I92_d0A4jSJ9cEVMhAGG5r7JYlsZVeJPFrI7UVKhxIumUUMuRqfUgvv5Ef7rt1Owqy9dd3Z6HplSBZSu9KmBWVL_18nMRWLOuGJ1B4h33-JwJSCz-nck)
-
-![](https://lh6.googleusercontent.com/JhTEDNu4PmTe3fp_b4Z-tE_scn8ybvfaxxv1RfD1fCzFgn6atay9RsV-epAyweoLrO9_vjGehvxJJtZSNsy1rPqSm6lOFCMvtVC-v-wrUmOdk5xYqpzIktkf-d387U1_ujZ8DZ3Swv6j4JdeTOpL8Sk)
+<img src ="https://lh5.googleusercontent.com/5F3UeZD5NsqNctflSAwpwgtXw9jZk7uCTjZ4pH4IdPYFUfdZs0j86Pz4RmHG589IHXgurGrTl8vAmWWSF7kUdlHxFmmX9fkBLOMU4KUpzMDrWJRlwEyuQg2VHZy2b-YASPmWL7KSwB59KFjkQLmX3s0" width=200p>
+<img src ="https://lh3.googleusercontent.com/6fjLonfaabsCnh_nHrkPOaa_paSKUXz_4UDRXkhfWeDmGAMsCC_uvtuVCZ386lBV_Fr1k9Zq9u0FzlVXWHLpo81kfa-4tki3VLDDHyV0onqMXFx6ib91OYTuURrhUWGYKgWZEkomDOlGXwFJGJ2I9Ls" width=200px>
 
 
 ###### _Servo moving:_
