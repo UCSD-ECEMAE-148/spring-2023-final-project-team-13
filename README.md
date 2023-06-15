@@ -24,6 +24,10 @@ This is the schematic that we followed to successfully wire our vehicle and all 
 
 
 ##### Hardware: 
+<img src ="https://lh5.googleusercontent.com/oI_9ofCp3S5xS54PAKwwyU0IyPKYL82ajO9fzjPvlPXeAUhK4CYMyXhPulU00wi1Grpo8hHciFN4H0WA2oyJfgahlmHHsm5OXqLJI0o3-UOcGm8FHKtaFZKP9aC4jNTsPHYDoQKkrjZY-p99wtA6gE0" width=200p>
+
+Link to Full Robot CAD
+<https://a360.co/43xDl2F>
 
 
 ###### _V1: objective to utilize gears for compact packaging. The green gears would help the gimbal yaw while the red gears allow the gimbal to pitch._ 
