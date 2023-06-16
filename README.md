@@ -88,6 +88,10 @@ Gimbal Movement & Image processing – Created a python script that handled the 
 
 ![](https://lh6.googleusercontent.com/698d0hlSoYlySs_S9QgBiK1NxxyAnOfl_xcndCdQya_IUxwrJ637aVwiCnpcBJ4pnWqum849n96Bu3KIxC1giVCh4hoL3LI_Z4kCcEwIqJ659qeKl6osFzZrJJlT1oADAyn3smkCMabRR5l4wM4oVgk)
 
+###### _Replication:_
+
+Main functionality for demo can be found in process.py
+
 
 ###### _DEMO:_ 
 
